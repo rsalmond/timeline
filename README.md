@@ -1,11 +1,39 @@
-# timeline
-and then what happened?
+# ... and then what happened?
 
+# Prehistory
+
+## Pliocene (Geologic Epoch) 5.33 mya - 2.58 mya
+
+## Lower Paleolithic 3.3 mya - 300 kya
+
+* AKA The Stone Age
+
+### 
+
+## Middle Paleolithic 300 kya - 50 kya
+
+* Origin of behavioural modernity.
+
+### 315 kya
+
+* Emergence of anatomically modern humans at Jebel Irhoud.
+
+## Upper Paleolithic 50 kya - 12 kya
+
+* End of the Stone Age.
+* Beginning of Early Modern Humans.
+
+## Holocene 11.7 kya
+
+* End of the Last Glacial Period.
+* Neolithic revolution (AKA beginning of civilization)
+   * Agricultural revolution, end of hunter gatherer period.
+
+## Bronze Age 3300 - 1200 BCE
 
 ## 400 BCE
 
 * Democritus argues the idea of "Atomos" - an indivisible building block of matter.
-
 
 ## 1500 CE
 
