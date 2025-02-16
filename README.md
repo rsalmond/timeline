@@ -57,6 +57,10 @@
 
 * Isaac Newton publishes the Principia - laws of motion and law of universal gravitation (and independently invents calculus).
 
+### 1889
+
+* Ludwig Wittgenstein born in Vienna.
+
 ## 1900 CE
 
 ### 1904
